@@ -8,7 +8,7 @@ import (
 
 	"io/ioutil"
 
-	"github.com/yangchenxing/go-ipipnet-downloader"
+	"github.com/Wiqich/go-ipipnet-downloader"
 )
 
 var (

@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/yangchenxing/go-ip-index"
-	"github.com/yangchenxing/go-regionid"
+	"github.com/Wiqich/go-ip-index"
+	"github.com/Wiqich/go-regionid"
 )
 
 func (index *Index) loadDat() error {

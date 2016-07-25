@@ -3,7 +3,7 @@ package ipipnet
 import (
 	"testing"
 
-	"github.com/yangchenxing/go-ipipnet-downloader"
+	"github.com/Wiqich/go-ipipnet-downloader"
 )
 
 func TestLoadDatFail(t *testing.T) {

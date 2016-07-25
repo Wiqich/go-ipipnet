@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/yangchenxing/go-ip-index"
-	"github.com/yangchenxing/go-ipipnet-downloader"
-	"github.com/yangchenxing/go-regionid"
+	"github.com/Wiqich/go-ip-index"
+	"github.com/Wiqich/go-ipipnet-downloader"
+	"github.com/Wiqich/go-regionid"
 )
 
 // Index provide ip to regions index ability. It supports data in "DAT" format only.
